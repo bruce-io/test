@@ -1,0 +1,10 @@
+[ {
+  "url" : "https://console.bosch-iot-suite.com/virtual-demo-device",
+  "displayText" : "Bosch IoT Suite Virtual Demo Device-Clone"
+}, {
+  "url" : "https://docs.bosch-iot-suite.com/device-management/Physical-device-connection---Octopus.html",
+  "displayText" : "Tutorial for device connection-Clone"
+}, {
+  "url" : "https://docs.bosch-iot-suite.com/device-management/Device-connection---demo-device.html",
+  "displayText" : "Tutorial for device connection using the virtual demo device-Clone"
+} ]
